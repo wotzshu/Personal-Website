@@ -1,17 +1,13 @@
 
 const items = [
-        { icon: 'fab fa-instagram', link: 'https://instagram.com/umutxyp' },
-        { icon: 'fab fa-telegram', link: 'https://t.me/umutland' },
-    { icon: 'fab fa-youtube', link: 'https://youtube.com/@umutxyp' },
-    { icon: 'fab fa-facebook', link: 'https://facebook.com/umutxyp' },
-    { icon: 'fab fa-github', link: 'https://github.com/umutxyp' },
+        { icon: 'fab fa-instagram', link: 'https://instagram.com/wotzshu' },
+    { icon: 'fab fa-youtube', link: 'https://youtube.com/xxx' },
+    { icon: 'fab fa-github', link: 'https://github.com/wotzshu' }
   ]
 
 const navItems = [
-    { icon: 'fal fa-home', active: 'fa fa-home', label: 'Home', href: '/' },
-    { icon: 'fal fa-compass', active: 'fa fa-compass', label: 'Projects', href: '/projects' },
-    { icon: 'fal fa-phone', active: 'fa fa-phone', label: 'Contact', href: '/contact' },
-    { icon: 'fal fa-rss', active: 'fa fa-rss', label: 'Blogs', href: 'https://blog.codeshare.me' }
+    { icon: 'fal fa-home', active: 'fa fa-home', label: 'Ana Sayfa', href: '/' },
+    { icon: 'fal fa-phone', active: 'fa fa-phone', label: 'Bana Ulaş', href: '/contact' }
 ]
 
 import Link from 'next/link';
