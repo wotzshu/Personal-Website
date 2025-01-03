@@ -22,9 +22,6 @@ export default function Home() {
                 </div>
                 <p className="text-white/50 text-md mt-3">
         <p>Selam! ben <strong>Kayra</strong>, istanbul'da yaşıyorum. Spotify'da şarkı yapımcısıyım.</p>
-        <br></br>
-        <h1><strong>EXPERIENCE</strong></h1>
-        <br></br>
         <h1><strong>Sosyal Medya Hesaplarım</strong></h1>
         <ul>
             <li><a href="https://instagram.com/wotzshu/" target="_blank">* Wotzshu - Instagram</a></li>
