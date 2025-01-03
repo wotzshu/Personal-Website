@@ -11,7 +11,7 @@ export default function Home() {
     <>
       <div className="py-20">
         <p className="text-3xl text-white font-semibold text-center">Bana ulaş</p>
-        <p className="text-xl text-white/50 font-normal text-center mb-5">Other addresses where you can contact me.</p>
+        <p className="text-xl text-white/50 font-normal text-center mb-5">Bana ulaşabilceğin adresler aşağıda bulunuyor.</p>
         <div className=" flex justify-center flex-col items-center">
             <div className="max-w-lg w-full">
                 <a target="_blank" rel="norefferer" href="https://instagram.com/wotzshu/">
