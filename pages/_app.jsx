@@ -74,7 +74,7 @@ function MyApp({ Component, pageProps }) {
               <p>❤️ Wotzshu</p></div>
             <div className="mt-2 md:mt-0 flex items-center">
               <a href="https://instagram.com/wotzshu/" target="_blank" rel="noreferrer" className="w-full md:w-auto bg-neutral-700/5 hover:bg-neutral-700/20 px-4 py-2 rounded-md transition-all duration-200">
-                <i className="fab fa-discord mr-2" />Follow my instagram
+                <i className="fab fa-instagram mr-2" />Follow my instagram
               </a>
             </div>
 
